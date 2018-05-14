@@ -1,4 +1,4 @@
-## Welcome to JabbyApps GitHub Page
+## JabbyApps GitHub Page
 
 Central repository of current running projects
 
