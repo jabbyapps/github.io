@@ -1,4 +1,4 @@
-## JabbyApps GitHub Page
+## jabbyApps GitHub Page
 
 Central repository of current running projects
 
